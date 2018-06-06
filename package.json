@@ -1,5 +1,5 @@
 {
-  "name": "edge-currency-ethereum",
+  "name": "edge-currency-0chain",
   "version": "0.10.1",
   "description": "Edge Ethereum currency plugin",
   "homepage": "https://edgesecure.co/",
@@ -17,7 +17,7 @@
   "module": "./lib/indexEthereum.es.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Airbitz/edge-currency-ethereum.git"
+    "url": "git@github.com:kkumaresan/edge-currency-0chain.git"
   },
   "scripts": {
     "build": "npm run webpack && npm run rollup && npm run build:flow",
