@@ -1,0 +1,7 @@
+.idea/
+.nyc_output
+/coverage
+/lib
+/intermediate
+/node_modules
+/build
